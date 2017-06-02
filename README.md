@@ -2,12 +2,12 @@
 
 ## Workshop Plan
 
-### 10h [Introduction](ReDi-Creative-Coding-Workshop#introduction)
+### 10h [Introduction](#introduction)
 
 - Brief review on how computers work, what does it means to write a code and tell to a machine run it.
 - Creative Coding?
 
-### 11h [Processing Environment (IDE)](#Processing)
+### 11h [Processing Environment (IDE)](#processing)
 
 - Just a text editor?
 - The pixelated canvas, pixels, coordinates and numbers
@@ -16,7 +16,7 @@
 
 ### 12h [Lunch Break](https://media.giphy.com/media/kkFmE8jN0Ygco/giphy.gif)
 
-### 13h - 15h30 [Sketching your Art](#Sketching-your-Art)
+### 13h - 15h30 [Sketching your Art](#sketching-your-art)
 ### 15h30 - 16h [Printing your code]()
 ### 16h [THE END](https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif)
 
