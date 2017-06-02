@@ -167,3 +167,4 @@ The process of finding and resolving bugs or defects that prevent correct operat
 * [Generative Desing Nuttella](https://www.dezeen.com/2017/06/01/algorithm-seven-million-different-jars-nutella-packaging-design)
 * [Reddit - Creative Coding](https://www.reddit.com/r/creativecoding/)
 * [Prosthetic Knowledge - VR, 3D, Machine Learning](http://prostheticknowledge.tumblr.com/)
+* [Creative Coding Vimeo](https://vimeo.com/channels/creativecoding/videos)
