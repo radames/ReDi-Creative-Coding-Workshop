@@ -155,6 +155,8 @@ The process of finding and resolving bugs or defects that prevent correct operat
 
 # Other References
 
+* [Nature of Code](https://vimeo.com/channels/natureofcode)
+* [Daniel Shiffman](https://www.youtube.com/user/shiffman/videos)
 * [Programming Design Systems by Rune Madsen](https://programmingdesignsystems.com)
 * [What is code by Paul Ford](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code)
 * [Creative Coding Awesome List](https://github.com/terkelg/awesome-creative-coding)
