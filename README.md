@@ -2,7 +2,7 @@
 
 ## Workshop Plan
 
-### 10h [Introduction](#Introduction)
+### 10h [Introduction](ReDi-Creative-Coding-Workshop#introduction)
 
 - Brief review on how computers work, what does it means to write a code and tell to a machine run it.
 - Creative Coding?
