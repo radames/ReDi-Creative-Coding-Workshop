@@ -134,10 +134,12 @@ The process of finding and resolving bugs or defects that prevent correct operat
 * [Colors](https://processing.org/tutorials/color/)
 
 
+# Sketching your Art
 
-
-# Inspiration
-
+## Inspiration
+* [Geometric Abstract Art](https://encrypted.google.com/search?q=geometric+abstract+art&source=lnms&tbm=isch)
+* [Algorithmic Art](https://encrypted.google.com/search?tbm=isch&q=algorithmic+art)
+* [Recode Project](http://recodeproject.com/)
 * [Tate Modern - Electronic Media Archive](http://www.tate.org.uk/art/art-terms/e/electronic-media)
 * [SF Moma - Digital Media Archive](https://www.sfmoma.org/search/?page=2&classification=digital+media&q=&type=artwork)
 * [MOMA - Archive - Software](https://www.moma.org/collection/works?locale=en&utf8=%E2%9C%93&q=&classifications=39&date_begin=Pre-1850&date_end=2017&with_images=1)
