@@ -144,6 +144,15 @@ The process of finding and resolving bugs or defects that prevent correct operat
 * [SF Moma - Digital Media Archive](https://www.sfmoma.org/search/?page=2&classification=digital+media&q=&type=artwork)
 * [MOMA - Archive - Software](https://www.moma.org/collection/works?locale=en&utf8=%E2%9C%93&q=&classifications=39&date_begin=Pre-1850&date_end=2017&with_images=1)
 
+## Color Pallet
+
+* http://colormind.io/
+* https://coolors.co/browser/latest/
+* http://www.colourlovers.com/
+* http://www.color-hex.com/color-palettes/
+* https://color.adobe.com/create/color-wheel
+
+
 # Other References
 
 * [Programming Design Systems by Rune Madsen](https://programmingdesignsystems.com)
