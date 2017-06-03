@@ -143,6 +143,8 @@ The process of finding and resolving bugs or defects that prevent correct operat
 * [Tate Modern - Electronic Media Archive](http://www.tate.org.uk/art/art-terms/e/electronic-media)
 * [SF Moma - Digital Media Archive](https://www.sfmoma.org/search/?page=2&classification=digital+media&q=&type=artwork)
 * [MOMA - Archive - Software](https://www.moma.org/collection/works?locale=en&utf8=%E2%9C%93&q=&classifications=39&date_begin=Pre-1850&date_end=2017&with_images=1)
+* [Introduction to Programming UCLA](https://www.openprocessing.org/class/2896)
+* [Interactivity (DMA 28), Winter 2017, UCLA](https://www.openprocessing.org/class/55823)
 
 ## Color Pallet
 
