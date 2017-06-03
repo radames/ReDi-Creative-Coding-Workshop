@@ -14,7 +14,7 @@
 - Functions, shapes, text, colors
 - Interaction and randomness, playing with moving numbers.
 
-### 12h [Lunch Break](https://media.giphy.com/media/kkFmE8jN0Ygco/giphy.gif)
+### 12h [Break]()
 
 ### 13h - 15h30 [Sketching your Art](#sketching-your-art)
 ### 15h30 - 16h [Printing your code]()
